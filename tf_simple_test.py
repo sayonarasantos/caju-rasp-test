@@ -1,5 +1,5 @@
 # - Source https://www.tensorflow.org
-# - Simples test to check tensorflow package
+# - Simple test to check tensorflow package
 # with MNIST database
 
 import tensorflow as tf
